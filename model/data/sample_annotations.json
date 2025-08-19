@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Patient ID: RDS-2024-001. Male infant born at 28 weeks gestational age with birth weight of 1200 grams. Primary diagnosis: Severe respiratory distress syndrome. Treatment included immediate intubation, mechanical ventilation, and surfactant therapy within 2 hours of birth. Medications administered: Poractant alfa (surfactant), caffeine citrate for apnea of prematurity, dexamethasone for chronic lung disease prevention. Patient required ventilatory support for 14 days, then transitioned to CPAP. Discharged home at 36 weeks corrected gestational age in stable condition on supplemental oxygen.",
+    "annotations": {
+      "P_ID": "RDS-2024-001",
+      "Gestational_Age": "28 weeks",
+      "Sex": "Male",
+      "Birth_Weight": "1200 grams",
+      "Diagnosis": "Severe respiratory distress syndrome",
+      "Treatment_Respiratory": "immediate intubation, mechanical ventilation, surfactant therapy, CPAP, supplemental oxygen",
+      "Treatment_Medication": "Poractant alfa, caffeine citrate, dexamethasone",
+      "Outcome": "discharged home at 36 weeks corrected gestational age in stable condition on supplemental oxygen"
+    }
+  },
+  {
+    "text": "Female neonate, medical record RDS-2024-002, born at 32 weeks gestation, birth weight 1650g. Diagnosed with moderate respiratory distress syndrome and patent ductus arteriosus. Initial respiratory support with CPAP, progressed to require intubation and mechanical ventilation on day 2. Two doses of beractant surfactant administered. Additional treatments: indomethacin for PDA closure, furosemide for fluid management. Weaned from ventilator after 8 days to high-flow nasal cannula, then room air by day 15. Discharged home at term equivalent age without oxygen support.",
+    "annotations": {
+      "P_ID": "RDS-2024-002",
+      "Gestational_Age": "32 weeks",
+      "Sex": "Female",
+      "Birth_Weight": "1650g",
+      "Diagnosis": "moderate respiratory distress syndrome, patent ductus arteriosus",
+      "Treatment_Respiratory": "CPAP, intubation, mechanical ventilation, beractant surfactant, high-flow nasal cannula",
+      "Treatment_Medication": "beractant, indomethacin, furosemide",
+      "Outcome": "discharged home at term equivalent age without oxygen support"
+    }
+  },
+  {
+    "text": "Patient ID: RDS-2024-003. Male preterm infant, gestational age 30+2 weeks, weight 1400 grams. Severe RDS with bilateral ground-glass opacities on chest X-ray. Required immediate intubation in delivery room. Received prophylactic surfactant (Curosurf) followed by synchronized intermittent mandatory ventilation (SIMV). Developed pneumothorax on day 3, treated with chest tube insertion. Medications included caffeine, vitamin A therapy, and brief course of hydrocortisone. Chronic lung disease developed, requiring prolonged ventilatory support. Tracheostomy performed at 8 weeks of age. Discharged home at 4 months of age with home ventilator support.",
+    "annotations": {
+      "P_ID": "RDS-2024-003",
+      "Gestational_Age": "30+2 weeks",
+      "Sex": "Male",
+      "Birth_Weight": "1400 grams",
+      "Diagnosis": "Severe RDS with bilateral ground-glass opacities, pneumothorax, chronic lung disease",
+      "Treatment_Respiratory": "immediate intubation, prophylactic surfactant, SIMV, chest tube insertion, tracheostomy, home ventilator",
+      "Treatment_Medication": "Curosurf, caffeine, vitamin A therapy, hydrocortisone",
+      "Outcome": "discharged home at 4 months of age with home ventilator support"
+    }
+  },
+  {
+    "text": "Female infant, ID: RDS-2024-004, born at 34 weeks gestational age, birth weight 2100g. Mild respiratory distress syndrome diagnosed based on clinical presentation and chest imaging. Managed with nasal CPAP and supplemental oxygen. Single dose of surfactant (Survanta) administered via INSURE technique. Respiratory status improved within 24 hours. No additional medications required. Transitioned to room air by day 5. Full-term feeding achieved by discharge. Discharged home on day 10 in excellent condition, no follow-up respiratory support needed.",
+    "annotations": {
+      "P_ID": "RDS-2024-004",
+      "Gestational_Age": "34 weeks",
+      "Sex": "Female",
+      "Birth_Weight": "2100g",
+      "Diagnosis": "Mild respiratory distress syndrome",
+      "Treatment_Respiratory": "nasal CPAP, supplemental oxygen, surfactant via INSURE technique",
+      "Treatment_Medication": "Survanta",
+      "Outcome": "discharged home on day 10 in excellent condition, no follow-up respiratory support needed"
+    }
+  },
+  {
+    "text": "Preterm male twin A, patient number RDS-2024-005, gestational age 29 weeks, birth weight 1300 grams. Diagnosed with severe RDS complicated by persistent pulmonary hypertension of the newborn (PPHN). Required high-frequency oscillatory ventilation (HFOV) and inhaled nitric oxide therapy. Multiple surfactant doses administered over first 3 days. Additional treatments included sildenafil for PPHN, diuretics, and bronchodilators. Developed bronchopulmonary dysplasia requiring long-term oxygen therapy. Gradual weaning from ventilator support over 6 weeks. Discharged home at 38 weeks corrected age on low-flow oxygen and multiple medications.",
+    "annotations": {
+      "P_ID": "RDS-2024-005",
+      "Gestational_Age": "29 weeks",
+      "Sex": "Male",
+      "Birth_Weight": "1300 grams",
+      "Diagnosis": "severe RDS complicated by persistent pulmonary hypertension, bronchopulmonary dysplasia",
+      "Treatment_Respiratory": "high-frequency oscillatory ventilation, inhaled nitric oxide therapy, multiple surfactant doses, long-term oxygen therapy",
+      "Treatment_Medication": "surfactant, sildenafil, diuretics, bronchodilators",
+      "Outcome": "discharged home at 38 weeks corrected age on low-flow oxygen and multiple medications"
+    }
+  }
+]
